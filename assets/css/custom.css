@@ -1,0 +1,8 @@
+/* Add here all your css styles (customizations) */
+
+.padding-left-200 { padding-left: 200px;}
+.padding-right-200 { padding-right: 200px;}
+
+@media (max-width: 992px) {
+	.md-padding-right-200 { padding-right: 200px;}
+}
