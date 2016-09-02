@@ -1,0 +1,42 @@
+##REVOLUTION SLIDER assets/plugins/revolution-slider/
+    css: 
+    <link rel="stylesheet" href="assets/plugins/revolution-slider/revolution/css/settings.css">
+    <link rel="stylesheet" href="assets/plugins/revolution-slider/revolution/css/layers.css">
+    <link rel="stylesheet" href="assets/plugins/revolution-slider/revolution/css/navigation.css">
+
+    js:
+    <!-- JS Implementing Plugins -->
+    <script src="assets/plugins/revolution-slider/revolution/js/jquery.themepunch.tools.min.js"></script>
+    <script src="assets/plugins/revolution-slider/revolution/js/jquery.themepunch.revolution.min.js"></script>
+    <script src="assets/plugins/revolution-slider/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+    <script src="assets/plugins/revolution-slider/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+    <script src="assets/plugins/revolution-slider/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+    <script src="assets/plugins/revolution-slider/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+
+    <!-- JS Page Level -->
+    <script src="assets/js/plugins/revo-slider.js"></script>
+
+    note:
+    不需要再页面加载模块做额外设置。
+    jQuery(document).ready(function() {
+            
+    });
+
+
+    html：
+    slide 的 li中属性设置右侧导航的标题和描述信息 
+    data-title="云科简介" data-description="云起龙骧，扶摇直上，从此无界。"
+
+    layer NR 中设置左侧轮播区的不同层的文字。
+
+## datapicker assets\plugins\sky-forms-pro\
+    css:
+    <link rel="stylesheet" href="assets/plugins/sky-forms-pro/skyforms/css/sky-forms.css">
+    <link rel="stylesheet" href="assets/plugins/sky-forms-pro/skyforms/custom/custom-sky-forms.css">
+    <!--[if lt IE 9]><link rel="stylesheet" href="assets/plugins/sky-forms-pro/skyforms/css/sky-forms-ie8.css"><![endif]-->
+
+
+
+
+
+
