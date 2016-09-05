@@ -3682,6 +3682,12 @@
   line-height: 17px;
 }
 
+.blog-trending h4 {
+  font-size: 13px;
+  margin: 0 0 5px;
+  line-height: 17px;
+}
+
 .blog-trending small,
 .blog-trending small a {
   color: #777;
