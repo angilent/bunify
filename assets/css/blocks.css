@@ -5902,7 +5902,7 @@
 	color: #555;
 	font-size: 12px;
 	border-top: solid 1px #ddd;
-	padding: 6px 30px 6px 17px;
+	padding: 6px 30px 6px 30px;
 }
 
 .sidebar-nav-v1 ul li:hover a,

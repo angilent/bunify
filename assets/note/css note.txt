@@ -1,0 +1,19 @@
+###css note
+
+##日历控件
+\assets\css\pages\blog_magazine.css
+/*日历中提示当天有活动的下划线样式*/
+.ui-datepicker-calendar .ui-state-event {
+    background: inherit;
+    border-color: #fff #fff #72c02c;
+}
+
+
+profile 左侧导航
+/assets/css/pages/profile.css
+我加到customize.css 中
+.profile .list-group i {
+    margin-right: 5px;
+    min-width: 20px;
+    text-align: center;
+}

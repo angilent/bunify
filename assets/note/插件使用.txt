@@ -35,6 +35,27 @@
     <link rel="stylesheet" href="assets/plugins/sky-forms-pro/skyforms/custom/custom-sky-forms.css">
     <!--[if lt IE 9]><link rel="stylesheet" href="assets/plugins/sky-forms-pro/skyforms/css/sky-forms-ie8.css"><![endif]-->
 
+    js:Unifiy \assets\js\plugins\datepicker.js中封装了js脚本
+    调用的还是jquery-ui.min.js
+            // Inline datepicker
+            $('#inline').datepicker({
+                dateFormat: 'dd.mm.yy',
+                prevText: '<i class="fa fa-angle-left"></i>',
+                nextText: '<i class="fa fa-angle-right"></i>'
+            });
+    Datepicker.initDatepicker();页面中初始化
+
+    在yunke_event页面中
+
+
+/*日历中提示当天有活动的下划线样式*/
+.ui-datepicker-calendar .ui-state-event {
+    background: inherit;
+    border-color: #fff #fff #72c02c;
+}
+
+
+
 
 
 

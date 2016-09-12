@@ -6,3 +6,65 @@
 @media (max-width: 992px) {
 	.md-padding-right-200 { padding-right: 200px;}
 }
+
+
+/* 产品详情页导航 引用自：profile 左侧导航 /assets/css/pages/profile.css */
+.profile .list-group i {
+    margin-right: 5px;
+    min-width: 20px;
+    text-align: center;
+}
+
+.profile .profile-body {
+    background: #f7f7f7 none repeat scroll 0 0;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+
+.profile .cbp_tmlabel {
+    background: #fff none repeat scroll 0 0;
+    /*background: #f3f3f3 none repeat scroll 0 0;*/
+    clear: both;
+    color: #fff;
+    line-height: 1.4;
+    margin: 20px 10px 40px 10px;
+    padding: 10px 20px 20px;
+    /*position: relative;*/
+}
+
+.profile .cbp_tmlabel h2 {
+    border-bottom: 1px solid #ddd;
+    font-size: 21px;
+    margin-bottom: 10px;
+    margin-top: 0;
+    padding: 0 0 5px;
+    text-transform: capitalize;
+}
+
+/*product_detail 样式*/
+div.breadcrumbs-v3 h1, div.breadcrumbs-v3 p{
+    color: #e3000e;
+    font-family: microsoft yahei;
+}
+
+div.content-sm {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.breadcrumbs-v3.img-v1 {
+  background: url(../img/breadcrumbs/industries_slice4.png) no-repeat;
+}
+
+/*div.blog {
+    margin-top: 40px;
+}
+
+div.blog p{
+    font-size: 18px;
+}*/
+/*product_detail 样式*/
+
+
+
