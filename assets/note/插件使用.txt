@@ -54,6 +54,18 @@
     border-color: #fff #fff #72c02c;
 }
 
+## box-shadow
+<div class="col-md-4 shadow-wrapper">
+    <div class="box-shadow shadow-effect-2">
+        <img class="img-responsive" src="assets/img/mockup/mockup1.png" alt="">
+    </div>  
+</div>
+
+需要控制img 和外层包裹的div的尺寸，已达到完美效果
+
+
+
+
 
 
 
