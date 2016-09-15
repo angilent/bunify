@@ -66,5 +66,7 @@ div.blog p{
 }*/
 /*product_detail 样式*/
 
-
+.prod_detail_imgs img {
+    width: 100%;
+}
 
