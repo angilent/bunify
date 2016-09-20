@@ -70,3 +70,59 @@ div.blog p{
     width: 100%;
 }
 
+
+.captcha img {
+    position: absolute;
+}
+
+
+/*用户注册登录页面样式
+------------------------------------*/
+.reg-page {
+    color: #555;
+    padding: 30px;
+    background: #fefefe;
+    border: solid 1px #eee;
+    box-shadow: 0 0 3px #eee;
+}
+
+.modal-content .modal-reg-page {
+    color: #555;
+    padding: 30px;
+    background: #fefefe;
+}
+
+/*Reg Header*/
+.reg-header {
+    color: #555;
+    text-align: center;
+    margin-bottom: 35px;
+    border-bottom: solid 1px #eee;
+}
+
+.reg-header h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+/*Reg Forms*/
+.reg-page label {
+    color: #777;
+}
+
+.reg-page .input-group-addon {
+    color: #bbb;
+    background: none;
+    min-width: 40px;
+}
+
+/*modal Reg Forms*/
+.modal-reg-page label {
+    color: #777;
+}
+
+.modal-reg-page .input-group-addon {
+    color: #bbb;
+    background: none;
+    min-width: 40px;
+}

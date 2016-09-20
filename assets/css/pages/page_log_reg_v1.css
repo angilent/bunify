@@ -8,6 +8,12 @@
 	box-shadow: 0 0 3px #eee;
 }
 
+.modal-content .modal-reg-page {
+	color: #555;
+	padding: 30px;
+	background: #fefefe;
+}
+
 /*Reg Header*/
 .reg-header {
 	color: #555;
@@ -24,4 +30,21 @@
 /*Reg Forms*/
 .reg-page label {
 	color: #777;
+}
+
+.reg-page .input-group-addon {
+	color: #bbb;
+	background: none;
+	min-width: 40px;
+}
+
+/*modal Reg Forms*/
+.modal-reg-page label {
+	color: #777;
+}
+
+.modal-reg-page .input-group-addon {
+	color: #bbb;
+	background: none;
+	min-width: 40px;
 }
