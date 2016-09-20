@@ -126,3 +126,30 @@ div.blog p{
     background: none;
     min-width: 40px;
 }
+
+
+/*Job
+------------------------------------*/
+.job-img {
+    overflow: hidden;
+    position: relative;
+    min-height: 140px;
+    background: url(../img/bg/11.jpg) 70% 40% no-repeat;
+  background-size: cover;
+  background-position: center center;   
+}
+
+.job-img .job-banner {
+    padding: 20px;
+    max-width: 450px;
+    margin: 30px auto 30px;    
+    background: rgba(255,255,255,0.8);
+}
+
+.job-img .job-banner h2 {
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    text-transform: uppercase;
+}
+

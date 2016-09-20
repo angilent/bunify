@@ -64,6 +64,33 @@
 需要控制img 和外层包裹的div的尺寸，已达到完美效果
 
 
+## Cube Portfolio
+    css：
+    <link rel="stylesheet" href="assets/plugins/cube-portfolio/cubeportfolio/css/cubeportfolio.min.css">
+    <link rel="stylesheet" href="assets/plugins/cube-portfolio/cubeportfolio/custom/custom-cubeportfolio.css">
+
+    js：
+    plugin level：   <script type="text/javascript" src="assets/plugins/cube-portfolio/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
+
+    page level： <script type="text/javascript" src="assets/js/plugins/cube-portfolio/cube-portfolio-lightbox.js"></script>
+
+    grid-container 中的div中的a标签里面的href
+    div#grid-container>div>a 中的 href是用来动态去内容详情的。
+    div#grid-container>div.class 样式是设置标签，用来页面进行过滤的。
+
+    
+    图片实际尺寸 500x325 在列表页的显示尺寸373x242 在展开页显示尺寸 475x309
+
+
+
+
+
+
+
+
+
+
+
 
 
 
