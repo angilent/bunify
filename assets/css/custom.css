@@ -135,8 +135,8 @@ div.blog p{
     position: relative;
     min-height: 140px;
     background: url(../img/bg/11.jpg) 70% 40% no-repeat;
-  background-size: cover;
-  background-position: center center;   
+    background-size: cover;
+    background-position: center center;   
 }
 
 .job-img .job-banner {
