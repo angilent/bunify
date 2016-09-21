@@ -80,6 +80,19 @@
 
     
     图片实际尺寸 500x325 在列表页的显示尺寸373x242 在展开页显示尺寸 475x309
+div.content-sm {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.content-sm {
+    padding-bottom: 60px;
+    padding-top: 60px;
+}
+
+图片尺寸需要符合标准500x325，不然页面会乱。
+
+<!--=== Job Img ===-->
+
 
 
 
