@@ -93,6 +93,14 @@ div.content-sm {
 
 <!--=== Job Img ===-->
 
+##image-hover
+js:
+        <script type="text/javascript" src="assets/plugins/image-hover/js/modernizr.js"></script>
+    <script type="text/javascript" src="assets/plugins/image-hover/js/touch.js"></script>
+css: <link rel="stylesheet" href="assets/plugins/image-hover/css/img-hover.css">
+
+
+
 
 
 

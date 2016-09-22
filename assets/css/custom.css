@@ -153,3 +153,150 @@ div.blog p{
     text-transform: uppercase;
 }
 
+
+/*内容页样式，引自page_job_inner.css*/
+/*Block Description
+------------------------------------*/
+.block-description {
+    padding-bottom: 80px !important;
+}
+
+Left-Inner
+.block-description .left-inner {
+    padding: 20px;
+    background: #fff;
+    position: relative;
+}
+
+.block-description .left-inner .hex {
+    color: #777;
+    margin-bottom: 0;
+}
+
+.block-description .left-inner i.position-top {
+    top: 20px;
+    right: 20px;
+    color: #585f69;
+    font-size: 18px;
+    position: absolute;
+}
+
+.block-description .left-inner img {
+    float: left;
+    width: 80px;
+    height: auto;
+    padding: 3px;
+    margin: 0 10px 10px 0;
+    border: 1px solid #eee;
+}
+
+.block-description .left-inner h3 {
+    margin: 0 0 5px;
+}
+
+.block-description .left-inner p.hex {
+    margin-bottom: 5px;
+}
+
+.block-description .star-vote {
+    float: left;
+    margin-left: 0;
+    margin-right: 10px;
+}
+
+.block-description .star-vote li {
+    padding: 0;
+}
+
+/*Progresses*/
+.block-description .progression span {
+    float: left;
+    width: 150px;
+    margin: -8px 15px 0 0;
+}
+
+/*Right Inner*/
+.block-description .right-inner {
+    padding: 20px;
+    background: #fff;
+}
+
+.block-description .right-inner img {
+    float: left;
+    width: 90px;
+    height: auto;
+    margin-right: 10px;
+}
+
+.block-description .right-inner .font-s {
+    font-size: 18px;
+}
+
+.block-description .right-inner hr {
+    margin: 15px 0;
+}
+
+/*P chart v2*/
+.block-description .p-chart {
+    overflow: hidden;
+}
+
+.block-description .p-chart h3 {
+    font-size: 16px;
+}
+
+.block-description .p-chart .circle {
+    float: left;
+    margin-right: 10px;
+}
+
+.block-description .p-chart .overflow-h li i,
+.block-description .p-chart .overflow-h li a {
+    color: #72c02c;
+}
+
+.block-description .p-chart .overflow-h li a {
+    font-size: 11px;
+}
+
+/*Circle in Responsive*/
+@media (max-width: 450px) {
+    .block-description .p-chart.col-xs-6 {
+        width: 100%;
+    }
+}
+
+/*Save Job*/
+.block-description .save-job li {
+    padding: 2px 0;
+}
+
+.block-description .save-job i {
+    color: #555;
+    min-width: 25px;
+    text-align: center;
+}
+
+.block-description .save-job a {
+    color: #555;
+}
+
+.block-description .save-job a:hover {
+    color: #72c02c;
+}
+
+/*Overview*/
+.block-description .overview {
+    margin-bottom: 10px;
+}
+
+.block-description .overview i {
+    color: #fff;
+    float: left;
+    min-width: 38px;
+    font-size: 20px;
+    padding: 10px 3px;
+    text-align: center;
+    margin-right: 10px;
+    background: #585f69;
+}
