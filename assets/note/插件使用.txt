@@ -99,6 +99,8 @@ js:
     <script type="text/javascript" src="assets/plugins/image-hover/js/touch.js"></script>
 css: <link rel="stylesheet" href="assets/plugins/image-hover/css/img-hover.css">
 
+有时候，本地页面image hover效果失效，图片不翻转，是因为脚本调用的问题。
+
 
 
 
