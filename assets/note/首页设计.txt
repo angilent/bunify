@@ -8,3 +8,28 @@
 优势。
 
 还在犹豫，请联系云科。
+
+目前有哪些可以展示的内容：
+产品logo
+解决方案，
+活动
+
+合作厂商
+厂商推荐
+
+
+css：
+<link rel="stylesheet" href="assets/plugins/owl-carousel/owl-carousel/owl.carousel.css">
+
+js：
+<!-- JS Implementing Plugins -->
+owlCarousel
+<script type="text/javascript" src="assets/plugins/owl-carousel/owl-carousel/owl.carousel.js"></script>
+<!-- JS Page Level -->
+<script type="text/javascript" src="assets/js/plugins/owl-carousel.js"></script>
+document ready 调用
+OwlCarousel.initOwlCarousel();
+
+
+
+
