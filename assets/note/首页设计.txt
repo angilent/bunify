@@ -17,13 +17,11 @@
 合作厂商
 厂商推荐
 
-
+owlCarousel插件使用：
 css：
 <link rel="stylesheet" href="assets/plugins/owl-carousel/owl-carousel/owl.carousel.css">
-
 js：
 <!-- JS Implementing Plugins -->
-owlCarousel
 <script type="text/javascript" src="assets/plugins/owl-carousel/owl-carousel/owl.carousel.js"></script>
 <!-- JS Page Level -->
 <script type="text/javascript" src="assets/js/plugins/owl-carousel.js"></script>

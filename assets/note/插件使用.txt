@@ -9,9 +9,9 @@
     <script src="assets/plugins/revolution-slider/revolution/js/jquery.themepunch.tools.min.js"></script>
     <script src="assets/plugins/revolution-slider/revolution/js/jquery.themepunch.revolution.min.js"></script>
     <script src="assets/plugins/revolution-slider/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
-"></script>
-    <script src="assets/plugins/revolution-slider/revolution/js/extensions/revolution.extension.slideanims.mi    <script src="assets/plugins/revolution-slider/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
-    <script src="assets/plugins/revolution-slider/revolution/js/extensions/revolution.extension.parallax.min.jsn.js"></script>
+    <script src="assets/plugins/revolution-slider/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+    <script src="assets/plugins/revolution-slider/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+    <script src="assets/plugins/revolution-slider/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
 
     <!-- JS Page Level -->
     <script src="assets/js/plugins/revo-slider.js"></script>
@@ -100,6 +100,7 @@ js:
 css: <link rel="stylesheet" href="assets/plugins/image-hover/css/img-hover.css">
 
 有时候，本地页面image hover效果失效，图片不翻转，是因为脚本调用的问题。
+IE浏览器会弹出一个跨域脚本确认提示，允许后可以正确显示。
 
 
 
